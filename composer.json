@@ -1,5 +1,5 @@
 {
-    "name": "payvision/payvision-sdk-php",
+    "name": "pcljmk1984/payvision-sdk-php",
     "description": "Payvision PHP SDK",
     "type": "library",
     "version": "8.2.0",
@@ -9,7 +9,7 @@
         "ext-simplexml": "*",
         "ext-json": "*",
         "ext-curl": "*",
-        "guzzlehttp/guzzle": "^6.3",
+        "guzzlehttp/guzzle": "^7.4",
         "firebase/php-jwt": "^5.0"
     },
     "autoload": {
